@@ -12,7 +12,7 @@ The License Checker is a Python script designed to help developers check the lic
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/license-checker.git
+   git clone https://github.com/makalin/license-checker.git
    cd license-checker
    ```
 
